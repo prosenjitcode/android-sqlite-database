@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Sqlite Example</string>
+    <string name="last_name">Last Name</string>
+    <string name="first_name">First Name</string>
+</resources>
